@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Pulihkan lingkungan setelah clone (.restore_env.sh, seed, build FE)",
+    "status": "completed"
+  },
+  {
+    "content": "FASE U: jalankan POC test_core_dua_satuan_poc.py → perbaiki sampai 0 FAIL (U1–U7, nol residu)",
+    "status": "completed"
+  },
+  {
+    "content": "FASE U: gate INV-QTY-01 + INV-UOM-02 hijau (termasuk bukti-merah/self-test)",
+    "status": "completed"
+  },
+  {
+    "content": "FASE U: audit_md_erp_readiness --fase U SELESAI (15/15 koleksi, DRIFT D1 hilang)",
+    "status": "completed"
+  },
+  {
+    "content": "FASE U: uji user story U.G1–U.G4 sendiri di peramban → 3 celah FE ditemukan & ditutup",
+    "status": "completed"
+  },
+  {
+    "content": "FASE U: gate.sh --full hijau (0 FAIL) + verify_data_integrity bersih",
+    "status": "in_progress"
+  },
+  {
+    "content": "FASE U: agen uji end-to-end (backend+frontend) dan perbaiki semua temuan",
+    "status": "pending"
+  },
+  {
+    "content": "FASE U: tulis penutup di plan.md · SESSION_HANDOFF.md · RENCANA_EKSEKUSI_MD_ERP.md",
+    "status": "pending"
+  },
+  {
+    "content": "FASE D (permintaan desain) — mulai setelah U ditutup",
+    "status": "pending"
+  }
+]
